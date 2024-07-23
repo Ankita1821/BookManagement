@@ -22,7 +22,7 @@ To execute the book management UI test cases, run the BookManagement/testng.xml 
 To execute the book management API test cases, run the BookManagement/Api.xml file.
 
 ## Sample tests
-Sample test data is present in BookManagement/testdata/TestData.xlsx file. Corresponsing to that, the output will be present in BookManagement/testng report.
+Sample test data is present in BookManagement/testdata/TestData.xlsx file. Corresponsing to that, the output will be present in BookManagement/testng report and BookManagement/test-output/output.xlsx folder
 
 ## Assignment Requirement
 This project involves automating the book management service for different roles such as Admin, Bookkeeper, and Searcher. It handles various test cases, including both positive and negative scenarios, based on login credentials and role-based permissions.
